@@ -29,3 +29,13 @@ permissão de administrador e pode instalar dependências.
 
 Para consultar versões anteriores e suas notas, veja o
 [histórico de releases](https://github.com/Tales-de-Sa/BEE-releases/releases).
+
+## Relatar uma falha
+
+Consulte as [issues existentes](https://github.com/Tales-de-Sa/BEE-releases/issues)
+e, se necessário, abra um
+[relato de falha](https://github.com/Tales-de-Sa/BEE-releases/issues/new?template=bug_report.md).
+Informe a versão do BEE, o sistema operacional e os passos para reproduzir o problema.
+
+As issues são públicas. Use dados fictícios nas evidências e não publique documentos
+fiscais, dados de clientes, certificados, senhas, tokens ou bancos de dados.
